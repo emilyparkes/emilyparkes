@@ -2,7 +2,7 @@
 
 - 😄 she/her/they pronouns
 - 🧚🏼 fullstack dev with skills in React, Redux, JavaScript and TypeScript.
-- 📚 learning TypeScript and React Query currently.
+- 📚 learning TypeScript and React Query.
 - 🔭 currently working on [kiln-it](https://github.com/emilyparkes/kiln-it) a project to play with code which one day can help me play with clay.
 - 🎨 have a love for creativity, painting, pottery, journalling, sewing, eclectic jewellery and reading.
 - 🪡 currently learning how to sew with a friend and also how to crochet! 2023's goal is learning how to crochet but to knit as well!
