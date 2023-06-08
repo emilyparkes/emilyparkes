@@ -13,5 +13,6 @@
 - 💬 ask me about the course at [Dev Academy Aotearoa](https://devacademy.co.nz/) or my love of all things pups, pottery and general craftiness. 
 - 📫 reach me at emily@devacademy.co.nz
 
-#### ✨ [emilyparkes.me](https://www.emilyparkes.me/) ✨ [linkedin/emilycocoparkes]([https://www.emilyparkes.me/](https://www.linkedin.com/in/emilycocoparkes/)) 
+#### ✨ [emilyparkes.me](https://www.emilyparkes.me/)  
+#### ✨ [linkedin/emilycocoparkes]([https://www.emilyparkes.me/](https://www.linkedin.com/in/emilycocoparkes/)) 
 
