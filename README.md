@@ -14,5 +14,5 @@
 - 📫 reach me at emily@devacademy.co.nz
 
 #### ✨ [emilyparkes.me](https://www.emilyparkes.me/)  
-#### ✨ [linkedin/emilycocoparkes](https://www.emilyparkes.me/](https://www.linkedin.com/in/emilycocoparkes/) 
+#### ✨ [linkedin/emilycocoparkes](https://www.linkedin.com/in/emilycocoparkes/) 
 
