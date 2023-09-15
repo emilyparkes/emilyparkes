@@ -14,4 +14,3 @@
 - 📫 reach me by messaging me through [Linked In](https://www.linkedin.com/in/emilycocoparkes/)!
 
 #### ✨ [emilyparkes.me](https://www.emilyparkes.me/)
-
