@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-#### ✨ I'm available for new roles! ✨
-
 - 😄 she/her/they pronouns
 - 🧚🏼 fullstack dev - current stack React, Redux, JavaScript and TypeScript, Vite, SCSS, Express, and SQLite/PostgreSQL (though skilled in more!)
 - 📚 learning Ruby on Rails
