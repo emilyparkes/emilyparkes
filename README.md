@@ -3,7 +3,6 @@
 - 😄 she/her/they pronouns
 - 🧚🏼 fullstack dev - current stack React, Redux, JavaScript and TypeScript, Vite, SCSS, Express, and SQLite/PostgreSQL (though skilled in more!)
 - 📚 learning Ruby on Rails
-- 💼 I'm accepting new roles! I have experience as a full stack web developer and mentoring others in their career switch into the Tech industry
 - 🔭 currently working on [kiln-it](https://github.com/emilyparkes/kiln-it) a project to play with code which one day can help me play with clay more efficiently 
 - 🎨 have a love for creativity, painting, pottery, journalling, sewing, eclectic jewellery and reading
 - 🪡 currently re-learning how to sew with a friend and also crochet & knitting! (2023's main goal is learning how to crochet!)
