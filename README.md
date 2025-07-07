@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 😄 she/her/they pronouns
-- 🧚🏼 currently working as a front end developer with previous experience as a fullstack dev
+- 💼 I'm a front-end developer with previous experience as a fullstack dev in Pōneke/Wellington
 - 🔭 currently working on [kiln-it](https://github.com/emilyparkes/kiln-it) a project to play with code which one day can help me play with clay more efficiently 
 - 🎨 have a love for creativity, painting, pottery, journalling, sewing, eclectic jewellery and reading
 - 🪡 currently re-learning how to sew with a friend and also crochet & knitting! (2025's main goal is continuing to upskill my sewing abilities and learning how to knit!)
